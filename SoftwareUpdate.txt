@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
